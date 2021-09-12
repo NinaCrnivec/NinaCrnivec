@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Nina and I'm a postdoctoral research scientist in cloud physics at the Columbia University's Center for Climate Systems Research and the NASA Goddard Institute for Space Studies.
+
+- 🔭 I’m currently working on constraining cloud feedbacks in climate models using satellite observations.
+- 🌱 I’m currently learning Python and its capabilities for geoscience.
+- 📫 My contact info can be found at https://ccsr.columbia.edu/people/nina-crnivec.
+
+I received my PhD in 2020 from the LMU Munich where I investigated the complex three-dimensional interaction between inhomogeneous clouds and atmospheric radiation. I'm a co-developer of the radiative transfer package libRadtran, which is freely available at http://www.libradtran.org. In my PhD research I extended the classic δ-Eddington two-stream radiation scheme to incorporate partial cloudiness following the maximum-random overlap assumption. Inspired by the Tripleclouds concept of Shonk and Hogan (2008) I further designed the Tripleclouds radiative solver based on the core-shell model for convective clouds. Both radiation solvers were implemented into libRadtran and are easy to use! :smirk:
+
 <!--
 **NinaCrnivec/NinaCrnivec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
